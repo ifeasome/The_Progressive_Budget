@@ -39,7 +39,8 @@ that will be shown on the page, and added to their transaction history when thei
 ## Tests 
 Install program as detailed here: [Installation](#Installation). 
 
-
+App Functionality </br>
+![Demo-Test](public/demo/BudgetTrackerDemoTest.gif)
 
 ## License
 
