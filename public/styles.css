@@ -1,6 +1,7 @@
 body {
   font-size: 120%;
   font-family: Arial;
+  background-color: #15202B;
 }
 
 button, input {
@@ -10,16 +11,17 @@ button, input {
 
 table {
   width: 100%;
+  color: #AAB8C2;
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  border: 1px solid #1DA1F2;
   text-align: left;
   padding: 8px;
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: #ffffff;
 }
 
 .error {
@@ -35,6 +37,7 @@ tr:nth-child(even) {
 .total {
   font-size: 150%;
   text-decoration: underline;
+  color: #AAB8C2;
 }
 
 .form {
